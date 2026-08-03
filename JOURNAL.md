@@ -14,3 +14,26 @@ This seems like it'll be the best option, I just need to plan a bit more first:
 
 
 Well that's it for today... It's getting late and I have things to do... I've got a good start on research though! I'll think of some model designs... some other time this week.
+
+## 03.08.2026
+Time to learn onshape... And figure out how to design this thing...
+
+There's dimensions listed for the display itself on its store page (listed above), however I can't find any diagrams for the ESP32 control board... so this is gonna be a bunch of guess work and then eventually dealing with it when I get the thing...... Or just have a flat space underneath and put double-sided tape under there to stick it down... That'll do
+
+So I need a place for the USB C port, and the power switch, and then the cables to the control board go from there... If they're too short, I'll need cable extensions, and the power switch will just always be on... That might work better actually.
+
+The design I think is going to be 2 parts, the bottom half where the board sits, and the top half where the display lives - at an angle probably too (maybe? Is that harder to design? I'll see...)
+Or maybe a bottom cover that comes off to reveal everything. With either clips or screw-holes to fit it together.
+
+I better be able to control this thing... ESPHome supports touch displays right?
+
+Well [that](https://esphome.io/components/touchscreen/) looks complicated, but yes it does.... FUTURE ME PROBLEM!!!
+
+Okay so the design needs a bottom cover, and then a way for that to attach and detach... screws? Clips might not be flexible enough with my filament... idk
+
+Hmm, screws means I need to tap it, and I don't think I have any tapping tools... I suppose I should try clips...
+
+Restarting the design bit- Gonna do a wedge-shape from the right side, the front will have a hole.... noooooo clue how the display is gonna mount yet.... or where the control board is going.
+
+Done a lot more work on the design, got the shape about right, just need to sort the display mounting area and also the heat-insert holes for the screw mounts...
+If only I didn't accidentally leave the timelapse paused for OVER AN HOUR meaning i'm getting credited for 1hr 37 when I have been working on this for about 2hr 40 or more. Well, future me problem I suppose..... AAHHHHHH >:(
