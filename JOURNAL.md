@@ -37,3 +37,8 @@ Restarting the design bit- Gonna do a wedge-shape from the right side, the front
 
 Done a lot more work on the design, got the shape about right, just need to sort the display mounting area and also the heat-insert holes for the screw mounts...
 If only I didn't accidentally leave the timelapse paused for OVER AN HOUR meaning i'm getting credited for 1hr 37 when I have been working on this for about 2hr 40 or more. Well, future me problem I suppose..... AAHHHHHH >:(
+
+## 04.08.2026
+Okay I've started working on the mounting mechanism for the top of the display and had a wild idea: Scrap having a bottom cover, just flip the display upside-down (since my top bezel is too big anyway), attach the control board to the back half of the top panel, and feed the USB cable out the back of the board... no need for a bottom cover, no need for screws or heat-seat inserts!! (I was worried about assembly, I haven't used a soldering iron in a while... and I don't want my Dad to be backseat soldering again 🙄)
+
+Yup, done the design, for now... The display will be mounted upside down, there's little L-shape notches for it to sit in place. I've made a little cut out for the USB cable to fit through, so I just need to wait for parts, print this, and see how it goes... I hope it's not too light to the point it can't sit stable on its own... Some heavy weights could help fix that though. Files are all on github, funding submitted. It GO TIME!
